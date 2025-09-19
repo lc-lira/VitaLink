@@ -30,3 +30,4 @@ Mais do que um equipamento, o VitaLink representa a integração entre **tecnolo
 👨‍💻 Desenvolvido por:  
 Arthur Dias Vasques • Douglas Mathias Barboza • Lucas Branco Lira • Miguel Pagano Ribeiro • Murilo Theobald Macedo  
 
+

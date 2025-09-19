@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VitaLink/login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <fieldset>
+            <img src="resources/VitaLink_logo" alt="VitaLink Logo" class="VitaLink_logo" height="100">
+            <h1>VitaLink</h1>
+            <h2>Sistema Hospitalar Inteligente</h2>
+            <button class="tab" on click="showForm('medico')">Médico</button>
+            <button class="tab" on click="showForm('paciente')">Paciente</button>
+            <form action="medico">
+                <br><br>
+                <label for="email">Email</label><br>
+                <input type="email" name="email" id="email"><br>
+                <label for="senha">Senha</label><br>
+                <input type="password" name="senha" id="senha"><br><br>
+                <button>Entrar como Médico</button>
+            </form>
+            <form action="paciente">
+                <br><br>
+                <label for="cpf">CPF</label><br>
+                <input type="cpf" name="cpf" id="cpf"><br>
+                <label for="senha">Senha</label><br>
+                <input type="password" name="senha" id="senha"><br><br>
+                <button>Entrar como Médico</button>
+            </form>
+        </fieldset>
+    </form>
+</body>
+</html>
+
+
+
