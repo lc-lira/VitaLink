@@ -3,7 +3,7 @@
 ## 📌 Sobre o Projeto  
 O **VitaLink** é um projeto desenvolvido por alunos do curso Técnico em Informática do SENAI Petrópolis com foco em **tecnologia aplicada à saúde**.  
 
-A solução consiste em um **sistema IoT**, capaz de ser utilizado em hospitais e residências, justamente com sensores próprios.  
+A solução consiste em um **sistema IoT**, capaz de ser utilizado em hospitais e residências, juntamente com sensores próprios.  
 
 ## 🩺 Funcionalidades  
 O dispositivo reúne **cinco sensores essenciais**:  
